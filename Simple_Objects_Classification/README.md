@@ -1,1 +1,1 @@
-![plot](./images/pipeline.png=250x250)
+![plot](./images/pipeline.png)
