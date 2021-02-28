@@ -1,1 +1,1 @@
-![plot](./images/pipeline.png | width=100)
+![plot](./images/pipeline.png|width=100)
