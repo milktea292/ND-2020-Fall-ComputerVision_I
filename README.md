@@ -1,2 +1,2 @@
 # ND-2020-Fall-ComputerVision_I
-I will update the READMD for each work when I am avaiable.
+I will update the READMD for each work soon.
